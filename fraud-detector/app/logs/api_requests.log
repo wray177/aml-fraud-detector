@@ -1,0 +1,2 @@
+2025-07-23 02:21:59 - PREDICTION: {"transaction_id": "test_123", "fraud_probability": 0.5707, "is_fraud": true, "top_risk_factors": [{"feature": "is_suspicious_recipient", "importance": 98.79200475161277}, {"feature": "amount", "importance": 0.6693953323516426}, {"feature": "is_rub", "importance": 0.4639817111356983}], "timestamp": "2025-07-23T02:21:59.970801"}
+2025-07-23 02:21:59 - {"timestamp": "2025-07-23T02:21:59.976746", "path": "/predict", "method": "POST", "status_code": 200}
